@@ -1,0 +1,54 @@
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES ('lsport:154830:154', 5363, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:154830:155 5362, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:154830:156 5358, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:154830:222 5364, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:154830:223 5359, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:154830:287 5360, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:154830:288 5365, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:35232:1229 5206, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:35232:1230 5207, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:35232:1231 5204, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:35232:1234 5203, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:35232:132 5205, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:35232:727 5161, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:35232:728 5162, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:35232:729 5163, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:48242:1857 4566, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:48242:1858 4565, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:48242:1889 4660, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:1853 5297, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:1990 5311, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:1991 5312, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:1992 5313, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:1993 5314, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:1994 5315, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:1995 5316, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:2336 5310, 'lsport');
+INSERT INTO market_type_mapping (external_id, mapped_id, provider)
+VALUES (lsport:54094:853 5292, 'lsport');
